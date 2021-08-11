@@ -1,0 +1,16 @@
+{
+  "name": "Health-quiz-nodejs",
+  "version": "1.0.0",
+  "description": "This is a health quiz that you can play with your friends, to check wether or not they take of their health or not.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
